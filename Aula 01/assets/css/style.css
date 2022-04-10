@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #0db7fa;
+}
+
+#tituloDaPagina {
+    color: #00ffff;
+}
+
+.text {
+    color: red;
+}
+
+section {
+    /* display: flex;
+    flex-direction: row; */
+    padding: 50px;
+    border: solid 1px red;
+    margin: 50px;
+}
