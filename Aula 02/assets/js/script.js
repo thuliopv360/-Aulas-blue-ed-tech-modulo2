@@ -18,4 +18,4 @@ function handleChangeImg() {
     }
 }
 
-setInterval(handleChangeImg, 2000);
+// setInterval(handleChangeImg, 2000);
